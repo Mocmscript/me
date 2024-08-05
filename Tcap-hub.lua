@@ -7,14 +7,6 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddLabel("by huh")
-Tab:AddLabel("此脚本完全免费")
-Tab:AddLabel("开放源码")
-Tab:AddLabel("之后的脚本会加密")
-Tab:AddLabel("不定时更新")
-Tab:AddLabel("部分脚本是由Spy脚本抓取而制作")
-Tab:AddLabel("包括外国脚本")
-
 
 
 
