@@ -99,7 +99,7 @@ local function initui()
 	G2L["c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 	G2L["c"]["Size"] = UDim2.new(0.8493150472640991, -33, 1, 0);
 	G2L["c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-	G2L["c"]["Text"] = [[ERT聊天快捷按钮FUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKxd]];
+	G2L["c"]["Text"] = [[ERT聊天快捷栏xd]];
 	G2L["c"]["Name"] = [[header]];
 	G2L["c"]["BackgroundTransparency"] = 1;
 	G2L["c"]["Position"] = UDim2.new(0, 33, 0, 2);
