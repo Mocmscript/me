@@ -99,7 +99,7 @@ local function initui()
 	G2L["c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 	G2L["c"]["Size"] = UDim2.new(0.8493150472640991, -33, 1, 0);
 	G2L["c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-	G2L["c"]["Text"] = [[ERT聊天绕过xd]];
+	G2L["c"]["Text"] = [[ERT聊天快捷按钮FUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKFUCKxd]];
 	G2L["c"]["Name"] = [[header]];
 	G2L["c"]["BackgroundTransparency"] = 1;
 	G2L["c"]["Position"] = UDim2.new(0, 33, 0, 2);
@@ -182,7 +182,7 @@ local function initui()
 	G2L["15"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 	G2L["15"]["FontFace"] = Font.new([[rbxasset://fonts/families/GothamSSm.json]], Enum.FontWeight.Medium, Enum.FontStyle.Normal);
 	G2L["15"]["BackgroundTransparency"] = 1;
-	G2L["15"]["PlaceholderText"] = [[请在这里输入绕过内容]];
+	G2L["15"]["PlaceholderText"] = [[请在这里输入内容]];
 	G2L["15"]["Size"] = UDim2.new(1, -82, 1, 0);
 	G2L["15"]["ClipsDescendants"] = true;
 	G2L["15"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
