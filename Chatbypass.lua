@@ -390,7 +390,7 @@ local function initloader()
     G2L["d"]["Size"] = UDim2.new(0, 233, 0, 30);
     G2L["d"]["Name"] = [[Join]];
     G2L["d"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-    G2L["d"]["Text"] = [[QQ号:1759437335]];
+    G2L["d"]["Text"] = [[复制作者QQ]];
     G2L["d"]["Position"] = UDim2.new(0, 9, 1, -49);
 
     -- StarterGui.Loader.UI.Join.UICorner
@@ -407,7 +407,7 @@ local function initloader()
     G2L["f"]["Size"] = UDim2.new(0, 233, 0, 19);
     G2L["f"]["Name"] = [[Nevermind]];
     G2L["f"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-    G2L["f"]["Text"] = [[NO]];
+    G2L["f"]["Text"] = [[只加载脚本]];
     G2L["f"]["Position"] = UDim2.new(0, 9, 1, -19);
     G2L["f"]["BackgroundTransparency"] = 1;
 
@@ -630,7 +630,7 @@ spawn(function()
     end
     local loader = initloader()
     loader.UI.Join.MouseButton1Click:Connect(function()
-        setclipboard("https://discord.gg/c3AbX3GXsr")
+        setclipboard("1759437335")
         a()
         loader:Destroy()
     end)
