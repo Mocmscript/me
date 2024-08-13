@@ -375,7 +375,7 @@ local function initloader()
     G2L["c"]["TextColor3"] = Color3.fromRGB(166, 166, 166);
     G2L["c"]["Size"] = UDim2.new(0, 154, 0, 30);
     G2L["c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-    G2L["c"]["Text"] = [[Based - No reason]];
+    G2L["c"]["Text"] = [[ks号:hehewomasil]];
     G2L["c"]["Name"] = [[Based]];
     G2L["c"]["BackgroundTransparency"] = 1;
     G2L["c"]["Position"] = UDim2.new(0, 41, 0, 94);
@@ -407,7 +407,7 @@ local function initloader()
     G2L["f"]["Size"] = UDim2.new(0, 233, 0, 19);
     G2L["f"]["Name"] = [[Nevermind]];
     G2L["f"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-    G2L["f"]["Text"] = [[NO]];
+    G2L["f"]["Text"] = [[知道了]];
     G2L["f"]["Position"] = UDim2.new(0, 9, 1, -19);
     G2L["f"]["BackgroundTransparency"] = 1;
 
